@@ -1,7 +1,7 @@
 # Kiểm tra hiệu năng bằng jMeter
 
 ## So sánh 2 trang web Google News và vnexpress
-
+![image](https://github.com/hoanvukhai/JMeterLoadTesting/assets/129703780/174c3056-db6e-4d2a-9a74-ff4dba74bc00)
 ### View Results Tree
 ![image](https://github.com/hoanvukhai/JMeterLoadTesting/assets/129703780/eb4ccda4-db48-4298-95f0-c8031274d7c7)
 ### View Results in Table
